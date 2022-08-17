@@ -2274,6 +2274,17 @@ const publicationsList = [
     PDFLink: "https://arxiv.org/pdf/2207.07771.pdf",
     metadescription: ``,
     bgImage: "",
+  },{
+    id: 158,
+    date: "August 10, 2022",
+    title: "Revisiting Piggyback Prototyping: Examining Benefits and Tradeoffs in Extending Existing Social Computing Systems",
+    description: `The CSCW community has a history of designing, implementing, and evaluating novel social interactions in technology, but the process requires significant technical effort for uncertain value. We discuss the opportunities and applications of "piggyback prototyping", building and evaluating new ideas for social computing on top of existing ones, expanding on its potential to contribute design recommendations. Drawing on about 50 papers which use the method, we critically examine the intellectual and technical benefits it provides, such as ecological validity and leveraging well-tested features, as well as research-product and ethical tensions it imposes, such as limits to customization and violation of participant privacy. We discuss considerations for future researchers deciding whether to use piggyback prototyping and point to new research agendas which can reduce the burden of implementing the method.`,
+    authors: "Daniel A. Epstein, Fannie Liu, Andrés Monroy-Hernández, Dennis Wang",
+    eventID: 120,
+    researchArea: "Human Computer Interaction",
+    PDFLink: "https://arxiv.org/pdf/2208.05456.pdf",
+    metadescription: ``,
+    bgImage: "",
   },
   // {
   //   id: 107,
