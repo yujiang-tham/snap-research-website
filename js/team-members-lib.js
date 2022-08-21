@@ -292,6 +292,21 @@ const teamMembersList = [
     `,
   },
   {
+    id: 111,
+    metaTitle: "",
+    metaDescription: `
+    `,
+    name: "Elham Ghazizadeh",
+    email: "",
+    subTitle: "Research Engineer",
+    researchAreas: "Machine Learning, Artificial Intelligence, Computational Social Science",
+    backUrl: "../team/category/computational-social-science.html",
+    imageUrl: "../../img-for-members/Elham_Ghazizadeh.webp",
+    description: `
+    <p>Elham is a Research Engineer in the Computational Social Science team at Snap Research. Her work at Snap focuses on graph machine learning and its applications at large scale. Before joining Snap, she was within AI Research team at JPMorgan Chase Co., where she worked on developing AI models for business problems and bringing ML models into production. She earned a PhD degree in Electrical and Systems Engineering from Washington University in st. Louis in 2020.</p>
+    `,
+  },
+  {
     id: 201,
     metaTitle: "",
     metaDescription: `
@@ -544,7 +559,7 @@ teamMembersList.forEach((teamMember) => {
 
 const teamMembersForTeamCategory = {
   computationalImaging: [0, 1, 2, 3, 4, 5, 6, 7],
-  computationalSocialScience: [100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110],
+  computationalSocialScience: [100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111],
   humanComputerInteraction: [200, 201, 202, 203, 204, 205, 206, 207, 208],
   creativeVision: [300, 301, 302, 303, 304, 305, 306],
   admin: [],
